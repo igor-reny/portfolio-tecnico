@@ -6,8 +6,11 @@
 ## Programação de aplicativos
 - [CigarroAPP](ProgramaçãoDeAplicativos/Unsmoke-master.zip)
 
-## Modelagem de Sistemas
+## Desenvolvimento de Sistemas (PIT)
 -[Bom de Corte]()
+
+## Autoria
+- [Autoria]()
 
 ## curriculo
 
