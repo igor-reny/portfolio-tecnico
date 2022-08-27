@@ -9,8 +9,8 @@
 ## Desenvolvimento de Sistemas (PIT)
 - [Bom de Corte](DesenvolvimentoDeSistemas/BomDeCorte)
 
-## Autoria
-- [Autoria](Autoria)
+## Autorias
+- [Autoria-2TRI](Autorias/ExplicaçaoAula-2TRi)
 
 ## curriculo
 
