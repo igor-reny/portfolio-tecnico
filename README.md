@@ -10,7 +10,7 @@
 - [Bom de Corte](DesenvolvimentoDeSistemas/BomDeCorte)
 
 ## Autoria
-- [Autoria](portfolio-tecnico/blob/main/Autoria)
+- [Autoria](Autoria)
 
 ## curriculo
 
