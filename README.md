@@ -1,15 +1,17 @@
-# portfolio-tecnico
+# portfolioTecnico 2 trimestre
+
+
 ## curriculo
 
-Igor Reny Dalla Costa
+Nome: Igor Reny Dalla Costa
 
 Aluno do sesi/senai de São José
 
 Habilidades:
 
-* Bom ouvinte 
-* Ingles intermediario Espanhol basico 
-* Trabalho bem em equipe Focado
+- [Bom ouvinte] 
+- Ingles intermediario Espanhol basico 
+- Trabalho bem em equipe Focado
 
 Formação:
 
