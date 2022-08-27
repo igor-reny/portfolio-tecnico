@@ -7,7 +7,7 @@
 - [CigarroAPP](ProgramaçãoDeAplicativos/Unsmoke-master.zip)
 
 ## Desenvolvimento de Sistemas (PIT)
--[Bom de Corte](DesenvolvimentoDeSistemas/BomDeCorte)
+- [Bom de Corte](DesenvolvimentoDeSistemas/BomDeCorte)
 
 ## Autoria
 - [Autoria]()
