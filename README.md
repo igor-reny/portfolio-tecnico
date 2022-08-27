@@ -1,10 +1,10 @@
 # portfolioTecnico 2 trimestre
 
 ## Banco de dados
--[Atividade de fixação]()
+- [Atividade de fixação]()
 
 ## Programação de aplicativos
--[CigarroAPP]()
+- [CigarroAPP]()
 
 ## Modelagem de Sistemas
 -[]()
