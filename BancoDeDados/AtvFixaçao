@@ -1,0 +1,20 @@
+PERGUNTAS
+
+1) Qual biblioteca precisamos importar para preparar nosso comando em SQL?
+2) Em que momento utilizamos o caractere '?' e para que serve?
+3) Para que serve e qual a diferença entre o método ps.execute() e ps.executeQuery()? (método visualizar_tabela)
+4) O que significa 'String... atributo' no cabeçalho dos métodos visualiza_tabela()? Qual o tipo da variável atributo?
+
+RESPOSTAS
+
+1: No SQL Server Management Studio, conecte-se a uma instância do SQL Server Mecanismo de Banco de Dados. Expanda os Bancos de dados. Clique com o botão direito do mouse em um banco de dados. Aponte para Tarefas. Clique em uma das opções a seguir. Importar dados. Exportar dados.
+
+2: Para ocupar uma posição a ser preenchida no comando do netbeans, essas informações serão dadas de acordo com oq o administrador do  código decidir.
+
+3: execute -> Executa qualquer tipo de instrução SQL, seja um SELECT, UPDATE, INSERT, DELETE;
+
+executeQuery -> Executa uma instrução sql SELECT, no entanto diferente da execute onde era necessário executar o comando statement.getResultSet() ou preparedStatement.getResultSet() a mesma já retorna o ResultSet;
+
+executeUpdate -> Executa operações como INSERT, UPDATE, DELETE, no entanto nesta operação temos como retorno o numero de linhas afetadas, não sendo necessário executar o comando statement.getUpdateCount();
+
+4: o comando "String..." serve para preencher o número de strings que será utilizado em uma tabela quando não se sabe a quantidade real de variáveis
