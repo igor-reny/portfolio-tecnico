@@ -1,5 +1,13 @@
 # portfolioTecnico 2 trimestre
 
+## Banco de dados
+-[Atividade de fixação]()
+
+## Programação de aplicativos
+-[CigarroAPP]()
+
+## Modelagem de Sistemas
+-[]()
 
 ## curriculo
 
@@ -7,21 +15,21 @@ Nome: Igor Reny Dalla Costa
 
 Aluno do sesi/senai de São José
 
-Habilidades:
+### Habilidades:
 
-- [Bom ouvinte] 
+- Bom ouvinte 
 - Ingles intermediario Espanhol basico 
 - Trabalho bem em equipe Focado
 
-Formação:
+### Formação:
 
-* Cursando ensino medio 
-* cursando tecnico em tecnologia da informação 
-* cursando inglês
+- Cursando ensino medio 
+- cursando tecnico em tecnologia da informação 
+- cursando inglês
 
-Conhecimento:
+### Conhecimento:
 
-* linux(basico) 
-* canva(intermediario) 
-* java(basico) 
-* redes(basico)
+- linux(basico) 
+- canva(intermediario) 
+- java(basico) 
+- redes(basico)
