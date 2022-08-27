@@ -12,11 +12,10 @@
 ## Autorias
 - [Autoria-2TRI](Autorias/ExplicaçaoAula-2TRi)
 
-## curriculo
+# Curriculo
 
-Nome: Igor Reny Dalla Costa
-
-Aluno do sesi/senai de São José
+## Nome: Igor Reny Dalla Costa
+### Aluno do sesi/senai de São José
 
 ### Habilidades:
 
